@@ -1,0 +1,8 @@
+name: "Soliloquy Live"
+description: "Browser-based character chat with a community character market, saved memories you can view, edit and delete, and support for your own OpenRouter API key."
+url: "https://soliloquy.live"
+docs: "https://soliloquy.live/blog/use-openrouter-for-character-chat"
+tags:
+  - chat
+  - creative
+date_added: "2026-10-14"
